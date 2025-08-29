@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/ venv/ .env/ .env* 
+.ipynb_checkpoints/
+.pytest_cache/ .mypy_cache/ .coverage htmlcov/
+dist/ build/
+
+# Logs & data
+logs/ *.log
+data/raw/ data/tmp/ data/cache/
+*.sqlite3
+
+# OS/IDE
+.DS_Store
+.idea/ .vscode/
+
+# Node (if you build a dashboard)
+node_modules/
+
+# Ignore VS & other project
+.vs/
+*/.vs/
+PatternFocus/

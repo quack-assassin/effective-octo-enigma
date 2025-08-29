@@ -1,0 +1,9 @@
+sqlmodel
+SQLAlchemy>=2.0
+fastapi
+uvicorn
+pydantic>=2
+ccxt
+pandas
+numpy
+python-dotenv
