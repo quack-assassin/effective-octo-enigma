@@ -28,3 +28,18 @@ PatternFocus/
 .vs/
 */.vs/
 PatternFocus/
+
+# Mirror hygiene
+.vs/
+*/.vs/
+PatternFocus/
+__pycache__/
+.venv/
+venv/
+.env*
+node_modules/
+dist/
+build/
+*.log
+*.sqlite3
+*.db
