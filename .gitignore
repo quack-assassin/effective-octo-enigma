@@ -43,3 +43,16 @@ build/
 *.log
 *.sqlite3
 *.db
+
+# --- Include PatternFocus code, ignore heavy/locked stuff ---
+!PatternFocus/
+!PatternFocus/**
+PatternFocus/.vs/
+PatternFocus/**/bin/
+PatternFocus/**/obj/
+PatternFocus/**/[Dd]ebug*/
+PatternFocus/**/[Rr]elease*/
+PatternFocus/**/packages/
+PatternFocus/**/*.user
+PatternFocus/**/*.suo
+PatternFocus/**/*.vsidx
