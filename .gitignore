@@ -23,3 +23,8 @@ node_modules/
 .vs/
 */.vs/
 PatternFocus/
+
+# Ignore VS & other project
+.vs/
+*/.vs/
+PatternFocus/
